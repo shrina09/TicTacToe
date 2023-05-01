@@ -12,7 +12,6 @@ A GUI two player TicTacToe and numerical tictactoe game
 ### Executing program
 
 * How to build and run the program
-* Step-by-step bullets
 ```
 gradle build 
 gradle run 
