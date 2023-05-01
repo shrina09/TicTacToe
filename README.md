@@ -21,8 +21,6 @@ java -jar build/libs/A3.jar
 * include the expected output<br />
 Cannot include it because its GUI
 
-## Limitations
-Was not able to do TextUI and implement a text based tictactoe. The file saving does not work properly, and there is no file loading done (no place where a file is taken to read and load the contents of it on the board). It also does not check if the position is already taken for both the players. I used Kakuro game provided as an example. I used it as a base and a guidance for this assignment. 
 
 ## Author Information
 Your name: Shrina<br />
