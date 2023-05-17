@@ -23,4 +23,4 @@ Cannot include it because its GUI
 
 ## Author Information
 Your name: Shrina<br />
-Email: shrina@uoguelph.ca
+Email: shrinapatel359@gmail.com
