@@ -17,9 +17,6 @@ gradle build
 gradle run 
 java -jar build/libs/A3.jar
 ```
-* include the expected output<br />
-Cannot include it because its GUI
-
 
 ## Author Information
 Your name: Shrina<br />
